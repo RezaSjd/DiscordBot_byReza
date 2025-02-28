@@ -1,30 +1,30 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "MTM0NDkzMjA1ODA1MjQyNzc3Ng.G8vZ_w.H2gILWd3rN10vn4P5wRkofPc1hDfzZEyYFWbLU",
     "prefix": "//",
     "ownerIDS": [
-        "442355791412854784"
+        "925670254045188106"
     ],
     "fnbr": "GET from: https://fnbr.co",
-    "fortnitetracker": "GET from: https://fortnitetracker.com",
+    "fortnitetracker": "d38a60f8-b76a-4beb-af15-d62968dfca18",
     "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
     "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text": "{guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
+        "text2": "By: Reza Sajjadian",
         "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "url": "Your Mom"
     },
     "clientsettings": {
         "nodes": [
             {
                 "host": "localhost",
                 "port": 2333,
-                "password": "youshallnotpass"
+                "password": "a1234a"
             }
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "c729561c01534517ba875d383588c299",
+        "clientID": "c35ada2a17cf43c08bd7dd9b4ab4672c"
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
